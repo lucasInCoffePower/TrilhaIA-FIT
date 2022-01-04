@@ -1,5 +1,5 @@
 # Essa pasta contém os arquivos de conteúdo do módulo de Introdução à Python junto com os notebooks e atividades geradas durante o módulo
-- Aula1
+- Aula1 ☑️
 
   * Comandos iniciais
   * Nome de variáveis
@@ -16,3 +16,7 @@
   * Operadores Lógicos
   * Valor Absoluto
   * Exercícios de aula
+
+- Aula 2 ⏳
+
+  * em andamento
